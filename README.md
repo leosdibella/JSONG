@@ -1,2 +1,2 @@
 # JSONG
-Serialize/Deserialize JavaScript Objects with circular references into JSON (... also make date parsing nicer)
+Serialize(Deserialize) JavaScript Objects(JSON) with circular references into(from) JSON(JavaScript Objects) (... also make date parsing nicer)
